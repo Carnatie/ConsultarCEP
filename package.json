@@ -1,0 +1,21 @@
+{
+  "name": "consultacep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carnatie",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.25.0",
+    "body-parser": "^1.19.1",
+    "express": "4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.15"
+  }
+}
